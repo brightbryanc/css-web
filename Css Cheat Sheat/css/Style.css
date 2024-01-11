@@ -1,0 +1,19 @@
+h1
+{ color:000000;}
+
+body{
+    color:rgb(255, 255, 255);
+
+font: normal 18px Arial, Helvetica, sans-serif;
+line-height: 1.4em;
+margin:0;
+}
+.container{ 
+  width:80%;
+  margin: auto;
+}
+.box-1{ background-color: rgb(44, 43, 43);
+     border: 3px red solid;
+     border-radius:5px;
+     padding:20px;
+}
